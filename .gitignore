@@ -5,3 +5,4 @@ codecov.yaml
 coverage.txt
 benchmark/
 /output
+/test
